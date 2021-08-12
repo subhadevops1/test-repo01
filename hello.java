@@ -1,4 +1,4 @@
-calss my_class{
+calss hello{
   public void main()
   {
   

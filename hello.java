@@ -1,6 +1,6 @@
 calss hello{
-  public void main()
+  public static void main()
   {
-  
+  	system.out.println("hello");
   }
 }
